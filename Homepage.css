@@ -62,3 +62,13 @@ footer{
     max-width: 1000px;
     margin: auto;
 }
+
+footer a{
+    padding: 25px;
+    color: white;
+}
+
+#groepfoto{
+    float: right;
+    padding-right: 10px;
+}
