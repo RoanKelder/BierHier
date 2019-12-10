@@ -1,0 +1,16 @@
+section.teksten{
+    width: 75%;
+    float: left;
+}
+
+article.tekst{
+    display: inline-block;
+    width: 30%;
+    padding-right: 5px;
+    vertical-align: top;
+}
+
+#wrapper{
+    max-width: 1000px;
+    margin: auto;
+}

@@ -2,6 +2,14 @@ nav{
     background: #4687ff;
     padding: 15px;
     margin: auto;
+
+}
+nav a{
     text-decoration: none;
+    padding: 15px;
     color: white;
+}
+#wrapper{
+    width: 1050px;
+    margin: auto;
 }
