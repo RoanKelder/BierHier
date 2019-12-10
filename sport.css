@@ -5,3 +5,8 @@ nav {
 nav a {
     color: black;
 }
+article.tekstsport{
+    vertical-align: top;
+    display: inline-block;
+    width: 20%;
+}
