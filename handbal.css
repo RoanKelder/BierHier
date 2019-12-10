@@ -1,11 +1,24 @@
+header{
+    background-color: #6fa8dc;
+}
+
+img#hanballogo{
+    width: 200px;
+}
+
+nav a{
+    color: white;
+    font-size: 24px;
+    padding-right: 10px;
+}
+
 section.teksten{
-    width: 75%;
-    float: left;
+    clear: both;
 }
 
 article.tekst{
     display: inline-block;
-    width: 30%;
+    width: 23%;
     padding-right: 5px;
     vertical-align: top;
 }
@@ -13,4 +26,14 @@ article.tekst{
 #wrapper{
     max-width: 1000px;
     margin: auto;
+}
+
+img#handbal{
+    width: 48%;
+    float: left;
+}
+
+img#srore{
+    width: 48%;
+    float: right;
 }
