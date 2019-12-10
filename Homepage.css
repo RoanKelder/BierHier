@@ -1,0 +1,64 @@
+#wrapper{
+    max-width: 1000px;
+    margin: auto;
+}
+
+header{
+    max-width: 1000px;
+    background-color: #4687ff;
+    margin: auto;
+    text-align: left;
+}
+
+nav a{
+    color: white;
+    font-size: 24px;
+    padding-right: 10px;
+}
+
+img#logo{
+    max-width: 500px;
+    margin: auto;
+}
+
+section.nieuws{
+    width: 70%;
+    float: left;
+}
+
+article.nieuw{
+    display: inline-block;
+    width: 48%;
+    padding-right: 5px;
+    vertical-align: top;
+}
+
+img#logoalmere{
+    width: 48%;
+    padding: 10px;
+}
+
+img#fcalmerecitie{
+    width: 50%;
+    padding: 10px;
+    margin: auto;
+}
+
+img#stegefoto{
+    width: 80%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+section.stage{
+    width: 30%;
+    float: right;
+}
+
+footer{
+    height: 200px;
+    background-color: gray;
+    clear: both;
+    max-width: 1000px;
+    margin: auto;
+}
