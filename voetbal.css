@@ -2,8 +2,8 @@ header{
     background-color: #6fa8dc;
 }
 
-img#hanballogo{
-    width: 200px;
+img#buitenboyslogo{
+    width: 250px;
 }
 
 nav a{
@@ -28,7 +28,7 @@ article.tekst{
     margin: auto;
 }
 
-img#handbal{
+img#voetbal{
     width: 48%;
     float: left;
 }
@@ -38,18 +38,6 @@ img#srore{
     float: right;
 }
 
-footer{
-    background-color: gray;
-    height: 200px;
-    width: 1000px;
-    margin: auto;
-}
-
-footer a{
-    color: white;
-    padding: 25px;
-}
-
-footer.copyright{
-
+img#voetbalbal{
+    
 }
