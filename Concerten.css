@@ -1,0 +1,62 @@
+
+header{
+    background-color: #6fa8dc;
+
+}
+
+img#KafLogo{
+    width: 100px;
+}
+
+nav{
+
+}
+nav a{
+    color: white;
+    font-size: 24px;
+
+
+}
+
+div.wrapper{
+    width: 1000px;
+    margin: auto;
+}
+
+h1{
+    padding-left: 10px;
+}
+
+
+div.BlofFotos{
+    width: 22%;
+    padding-right: 5px;
+    float: left;
+
+}
+img#BlofBoven{
+    width: 100%;
+}
+img#BlofOnder{
+    width: 100%;
+}
+section.Artikkelen{
+    
+}
+
+article.artikel{
+    display: inline-block;
+    width: 25%;
+    vertical-align: top;
+}
+
+footer{
+    background-color: grey;
+    color: white;
+    height: 200px;
+    padding: 25px;
+    clear: both;
+}
+footer a{
+    color: white;
+}
