@@ -39,5 +39,21 @@ img#srore{
 }
 
 img#voetbalbal{
-    
+    padding-top: 10px;
+}
+
+footer{
+    background-color: gray;
+    height: 200px;
+    width: 1000px;
+    margin: auto;
+}
+
+footer a{
+    color: white;
+    padding: 25px;
+}
+
+footer.copyright{
+
 }
