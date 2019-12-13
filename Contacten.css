@@ -9,7 +9,17 @@ nav a{
     padding: 15px;
     color: white;
 }
-#wrapper{
+#wrapper {
     width: 1050px;
     margin: auto;
+}
+form{
+    display: grid;
+    grid-template-columns: 25% 25% 50%;
+}
+label.naam{
+    grid-column: 1/3;
+}
+input.naam{
+    grid-column: 3/3;
 }
