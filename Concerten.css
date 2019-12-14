@@ -25,11 +25,12 @@ div.wrapper{
 
 h1{
     padding-left: 10px;
+   margin: 5px;
 }
 
 
 div.BlofFotos{
-    width: 22%;
+    width: 17%;
     padding-right: 5px;
     float: left;
 
@@ -39,9 +40,10 @@ img#BlofBoven{
 }
 img#BlofOnder{
     width: 100%;
+
 }
 section.Artikkelen{
-    
+
 }
 
 article.artikel{
@@ -49,14 +51,36 @@ article.artikel{
     width: 25%;
     vertical-align: top;
 }
+iframe{
+    float: right;
+}
+
+img#Martingarrixlink, img#Hardwelllink, img#Adellelink, img#NFlink{
+    width: 200px;
+    margin: 0px;
+    height: 150px;
+margin: 5px;
+}
+section.Linkfotos{
+display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    align-self: center;
+
+
+}
+
+
 
 footer{
     background-color: grey;
     color: white;
-    height: 200px;
+    height: 100px;
     padding: 25px;
     clear: both;
 }
 footer a{
     color: white;
 }
+
+
