@@ -43,17 +43,10 @@ div#KleineTekst {
     padding-right: 25px;
 }
 
-section.tekst {
-    float: right;
-}
 
-section.Fotorechts {
-    float: right;
-}
 
-section.FotoLinks {
-    float: left;
-}
+
+
 
 section.Fotos {
     width: 100%;
