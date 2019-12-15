@@ -1,0 +1,60 @@
+header{
+    background-color: #010c0e;
+}
+
+img#e-portslogo{
+    width: 250px;
+}
+
+nav a{
+    color: white;
+    font-size: 24px;
+    padding-right: 10px;
+    text-decoration: none;
+}
+
+section.teksten{
+    clear: both;
+}
+
+article.tekst{
+    display: inline-block;
+    width: 23%;
+    padding-right: 5px;
+    vertical-align: top;
+}
+
+#wrapper{
+    max-width: 1000px;
+    margin: auto;
+}
+
+img#e-sports{
+    width: 46%;
+    float: left;
+}
+
+img#srore{
+    width: 48%;
+    float: right;
+}
+
+img#e-sportsklein{
+    width: 22%;
+    padding-top: 10px;
+}
+
+footer{
+    background-color: gray;
+    height: 200px;
+    width: 1000px;
+    margin: auto;
+}
+
+footer a{
+    color: white;
+    padding: 25px;
+}
+
+footer a.copyright{
+}
