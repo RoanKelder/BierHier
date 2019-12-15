@@ -19,7 +19,6 @@ li{
     background-color: #010c0e;
     padding: 10px;
     padding-left: 20px;
-    border-top: 1px solid white;
 }
 
 li a{
@@ -33,7 +32,7 @@ img#logo{
 }
 
 section.nieuws{
-    width: 45%;
+    width: 55%;
     float: left;
     padding-right: 5px;
 }
@@ -50,7 +49,7 @@ img#logoalmere{
 }
 
 img#fcalmerecitie{
-    width: 50%;
+    width: 60%;
     padding: 10px;
     margin: auto;
 }
@@ -62,7 +61,7 @@ img#stegefoto{
 }
 
 section.stage{
-    width: 50%;
+    width: 40%;
     float: right;
 }
 
@@ -77,6 +76,9 @@ footer{
 footer a{
     padding: 25px;
     color: white;
+}
+
+footer a.copyright{
 }
 
 #groepfoto{
@@ -101,7 +103,6 @@ footer a{
     }
     ul{
         background-color: #010c0e;
-        border-top: 1px solid #fcebeb;
     }
     li {
         display: inline-block;
@@ -113,33 +114,5 @@ footer a{
         vertical-align: top;
     }
 
-}
-
-@media all and (min-width: 1000px) {
-    #wrapper{
-        max-width: 1000px;
-        margin: auto;
-    }
-    section.nieuws{
-        width: 68%;
-        float: left;
-    }
-    section.stage{
-        width: 30%;
-        float: right;
-    }
-    ul{
-        background-color: #010c0e;
-        border-top: 1px solid #fcebeb;
-    }
-    li {
-        display: inline-block;
-        border-top: none;
-    }
-    article.nieuw{
-        display: inline-block;
-        width: 48%;
-        vertical-align: top;
-    }
 
 }

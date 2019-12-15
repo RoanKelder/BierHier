@@ -2,7 +2,7 @@ header{
     background-color: #010c0e;
 }
 
-img#buitenboyslogo{
+img#atletieklogo{
     width: 250px;
 }
 
@@ -29,8 +29,8 @@ article.tekst{
     margin: auto;
 }
 
-img#voetbal{
-    width: 48%;
+img#atletiek{
+    width: 46%;
     float: left;
 }
 
@@ -39,7 +39,8 @@ img#srore{
     float: right;
 }
 
-img#voetbalbal{
+img#atletiekpopetje{
+    width: 22%;
     padding-top: 10px;
 }
 
@@ -53,7 +54,4 @@ footer{
 footer a{
     color: white;
     padding: 25px;
-}
-
-footer a.copyright{
 }
