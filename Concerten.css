@@ -1,0 +1,100 @@
+
+header{
+    background-color: #6fa8dc;
+
+}
+
+img#KafLogo{
+    width: 100px;
+}
+
+nav{
+
+}
+nav a{
+    color: white;
+    font-size: 24px;
+
+
+}
+
+div.wrapper{
+    width: 1000px;
+    margin: auto;
+}
+
+h1{
+    padding-left: 10px;
+   margin: 5px;
+}
+
+
+div.HoofdFotos{
+    width: 23%;
+    padding-right: 5px;
+    float: left;
+
+}
+img#BovensteFoto{
+    width: 100%;
+    height: 215px;
+}
+img#OndersteFoto{
+    width: 100%;
+    height: 215px;
+
+}
+section.Artikkelen{
+
+}
+
+article.artikel{
+    display: inline-block;
+    width: 25%;
+    vertical-align: top;
+}
+iframe{
+    float: right;
+    padding-top: 10px;
+}
+
+h1#EnMeer{
+    font-weight: bold;
+    margin: 0px;
+    margin-top: 50%;
+
+}
+
+
+img#Martingarrixlink, img#Hardwelllink, img#Adellelink, img#NFlink {
+    width: 150px;
+    margin: 0px;
+    height: 100px;
+
+}
+
+section.Linkfotos {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    height: 100px;
+    align-self: center;
+    padding-bottom: 50px;
+    padding-top: 50px;
+
+
+}
+
+
+footer{
+    background-color: grey;
+    color: white;
+    height: 100px;
+    padding: 25px;
+    clear: both;
+}
+footer a{
+    color: white;
+}
+
+
