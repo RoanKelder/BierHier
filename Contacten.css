@@ -19,6 +19,7 @@ nav a{
     margin: auto;
 }
 form{
+    padding-left: 15px;
     width: 50%;
     display: grid;
     grid-template-columns: 50% 50%;
@@ -27,7 +28,10 @@ input {
 
 }
 
-h3{float: right
+h3{
+
+    float: top;
+    padding-left: 687px;
 }
 p{
     float: right;
@@ -35,4 +39,20 @@ p{
 }
 #maps{
     float: left;
+}
+footer{
+    padding-left: 15px;
+    background: #999999 ;
+    color: white;
+}
+footer a{
+    padding-left: 15px;
+    text-decoration: none;
+    color: white;
+}
+iframe{
+    padding-left: 15px;
+}
+h1{
+    padding-left: 15px;
 }
