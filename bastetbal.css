@@ -2,7 +2,7 @@ header{
     background-color: #010c0e;
 }
 
-img#buitenboyslogo{
+img#basketballogo{
     width: 250px;
 }
 
@@ -29,8 +29,8 @@ article.tekst{
     margin: auto;
 }
 
-img#voetbal{
-    width: 48%;
+img#basketbal{
+    width: 46%;
     float: left;
 }
 
@@ -39,7 +39,8 @@ img#srore{
     float: right;
 }
 
-img#voetbalbal{
+img#basketbalpopetje{
+    width: 22%;
     padding-top: 10px;
 }
 
