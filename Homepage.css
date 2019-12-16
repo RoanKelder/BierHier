@@ -16,13 +16,9 @@ ul{
 }
 
 li{
-    background-color: #010c0e;
+    color: white;
     padding: 10px;
     padding-left: 20px;
-}
-
-li a{
-    color: white;
     text-decoration: none;
 }
 
