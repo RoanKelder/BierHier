@@ -19,19 +19,21 @@ article.tekst2 {
 }
 article.tekst3 {
     float: right;
-    width: 100px;
+    width: 22%;
 }
 img {
     width: 200px;
     height: 150px;
     padding: 10px;
+    margin: 0px;
 }
 div.wrapper{
     margin: auto;
     width: 1000px;
 }
 section.plaatjes {
-    max-width: 675px;
+    width: 1000px;
+
 }
 footer {
     background-color: #999999;
@@ -44,4 +46,11 @@ footer a{
 }
 a.copyright{
 
+}
+#text {
+    float: right;
+    width: 33%;
+    padding-top: 6px;
+    margin: 0px;
+    font-size: large;
 }
