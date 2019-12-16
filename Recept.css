@@ -1,0 +1,64 @@
+
+
+.lasagne{
+    float: right;
+    position: relative;
+    left: -20px;
+    border: 10px solid transparent;
+    padding: 15px;
+
+}
+
+.lasagna-2-3-4{
+    float: left;
+}
+
+.lasagne-5{
+    float: right;
+    position: relative;
+    left: -600px;
+}
+
+.pannekoek{
+    float: right;
+    position: relative;
+    left: -40px;
+}
+
+.pannekoek-2-3-4{
+float: left;
+
+}
+.pannekoek-5{
+    float: right;
+    position: relative;
+    left: -600px;
+}
+.tacos{
+    float: right;
+    position: relative;
+    left: -20px;
+}
+.tacos-2-3-4{
+    float: left;
+}
+.tacos-5{
+    float: right;
+    position: relative;
+    left: -600px;
+}
+header{
+    background-color: black;
+    height: 60px;
+}
+h1{
+    color: white;
+    padding-left: 20px;
+}
+p{
+    width: 600px;
+}
+body{
+    font-family: Arial;
+
+}
