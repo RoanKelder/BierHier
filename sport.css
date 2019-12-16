@@ -1,12 +1,47 @@
 nav {
     background-color: #6fa8dc;
-
+    max-width: 1000px;
+    height: 50px;
 }
 nav a {
     color: black;
+    text-decoration: none;
+    padding-left: 15px;
 }
-article.tekstsport{
+article.tekst1{
     vertical-align: top;
     display: inline-block;
     width: 20%;
+}
+article.tekst2 {
+    display: inline-block;
+    width: 20%;
+}
+article.tekst3 {
+    float: right;
+    width: 100px;
+}
+img {
+    width: 200px;
+    height: 150px;
+    padding: 10px;
+}
+div.wrapper{
+    margin: auto;
+    width: 1000px;
+}
+section.plaatjes {
+    max-width: 675px;
+}
+footer {
+    background-color: #999999;
+    height: 200px;
+    color: white;
+}
+footer a{
+    color: white;
+    text-decoration: none;
+}
+a.copyright{
+
 }
